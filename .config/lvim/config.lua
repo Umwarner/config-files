@@ -1,3 +1,6 @@
+-- Enable format on save
+lvim.format_on_save.enabled = true
+
 -- Relative Line Numbers
 vim.opt.relativenumber = true
 
